@@ -1,4 +1,3 @@
--# Attention-Based-Deep-Learning-for-Multi-Step-Time-Series-Forecasting : Transformer Architectures, Feature Engineering, and Interpretability
 # Advanced Time Series Forecasting with Attention Mechanisms
 
 ## Project Overview
@@ -160,4 +159,3 @@ The attention mechanism learns to:
 This confirms that the model captures meaningful temporal drivers, not noise.  
 
 ---
-
